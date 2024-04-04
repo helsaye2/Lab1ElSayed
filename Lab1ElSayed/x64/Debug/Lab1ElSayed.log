@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\HElSa\Desktop\Lab1ElSayed\Lab1ElSayed\Laboratory.cpp(17,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1ElSayed.vcxproj -> C:\Users\HElSa\Desktop\Lab1ElSayed\x64\Debug\Lab1ElSayed.exe
